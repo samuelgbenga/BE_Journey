@@ -13,7 +13,8 @@ what to do today 10/2022
 Focus on Basical preparation
 1. Download just code editor vs code
 2. signup for free BE courses online if available
-3. Download recommended materials
+3. Download recommended materials: Book list to download
+	https://www.turing.com/kb/top-nodejs-books-for-developers
 4. Build a little backend project using videos set up your vs code along side..
 5. Ten backend app for beginners using Node.js
 6. Join Nodejs meetings/group/clan
