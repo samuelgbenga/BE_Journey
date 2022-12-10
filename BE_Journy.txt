@@ -14,5 +14,30 @@ Focus on Basical preparation
 1. Download just code editor vs code
 2. signup for free BE courses online if available
 3. Download recommended materials
-4. Build a little backend project using videos set up your vs code along side
+4. Build a little backend project using videos set up your vs code along side..
+5. Ten backend app for beginners using Node.js
+6. Join Nodejs meetings/group/clan
+
+
+..
+Free Website for backend:
+Cursa
+https://cursa.app/en/free-course/apis-with-nodejs-by-the-net-ninja
+
+Udacity
+https://learn.udacity.com/courses/ud171/lessons/db4b8a33-e9ea-42be-bcfb-11abe245527c/concepts/8efe471b-4049-474e-933a-127809eaf2ec
+
+Mindluster
+https://www.mindluster.com/lesson/148726
+
+Cool for front end development
+generalassemb
+https://dash.generalassemb.ly/projects
+
+ALX an online tuition that overs free software engineering intense training for one year.
+
+
+..
+Resolve python base issue later
+
 
