@@ -17,7 +17,11 @@ Focus on Basical preparation
 	https://www.turing.com/kb/top-nodejs-books-for-developers
 4. Build a little backend project using videos set up your vs code along side..
 5. Ten backend app for beginners using Node.js
+	https://codersera.com/blog/nodejs-projects-for-beginners/
 6. Join Nodejs meetings/group/clan
+	https://nodejs.org/en/get-involved/
+	https://github.com/nodejs/community-committee
+	https://developers.redhat.com/developer-sandbox/activities/deploying-full-stack-javascript-applications-to-the-sandbox/part1
 
 
 ..
