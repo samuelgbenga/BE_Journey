@@ -47,6 +47,14 @@ Resolve python base issue later.
 what to do today December 13/2022
 1- Build a Backend app: using a video from scratch.
 	MonogDB password: kV2@eSTjRMw@jfA
+	
+******************************************
+Today 14 dec 2022
+browse articles: mongoos session explained
+
+
+
+
 
 
 
