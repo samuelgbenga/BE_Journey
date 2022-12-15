@@ -51,6 +51,11 @@ what to do today December 13/2022
 ******************************************
 Today 14 dec 2022
 browse articles: mongoos session explained
+****************************************
+Dec 15 2022
+browse articles on:
+	mongoose session explained
+	study node js: watch videos and read pdf
 
 
 

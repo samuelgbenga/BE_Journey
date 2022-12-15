@@ -90,12 +90,32 @@ export const deletBlog = async (req, res, next) => {
 
   let blog;
   try {
-    blog = await Blog.findByIdAndRemove(id);
+    blog = await Blog.findByIdAndRemove(id).populate("user");
+    if (!blog) {
+      return res.status(404).json({ message: "No Such Blog Found" });
+    }
+    await blog.user.blogs.pull(blog);
+    await blog.user.save();
   } catch (err) {
     return console.log(err);
   }
+
   if (!blog) {
     return res.status(500).json({ message: "unable to delete" });
   }
   return res.status(200).json({ message: "successfully Deleted" });
+};
+
+export const getByUserId = async (req, res, next) => {
+  const userId = req.params.id;
+  let userBlogs;
+  try {
+    userBlogs = await User.findById(userId).populate("blogs");
+  } catch (err) {
+    return console.log(err);
+  }
+  if (!userBlogs) {
+    return res.status(404).json({ message: "No Blog Found" });
+  }
+  return res.status(200).json({ blogs: userBlogs });
 };

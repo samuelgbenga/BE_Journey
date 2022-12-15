@@ -4,6 +4,7 @@ import {
   deletBlog,
   getAllBlog,
   getById,
+  getByUserId,
   updateBlog,
 } from "../controllers/blog-controllers";
 
@@ -14,5 +15,6 @@ blogRouter.post("/add", addBlog);
 blogRouter.put("/update/:id", updateBlog);
 blogRouter.get("/:id", getById);
 blogRouter.delete("/:id", deletBlog);
+blogRouter.get("/user/:id", getByUserId);
 
 export default blogRouter;
