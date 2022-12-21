@@ -1,0 +1,20 @@
+Beginning Node.js by Basarati Ali Syed ******** Date Dec 21/2022
+
+Immediately Executing Function
+You can execute a function immediately after you define it. Simply wrap the function in parentheses () and invoke it,
+as shown in Listing 2-12.
+Example:
+(function foo() {
+console.log('foo was executed!');
+})();
+
+There is the: Normal function
+Immediate executing function
+Anonymous function ( function without name Assigned to variable)
+Higer-order function Functions that take functions as arguments are called higher-order functions.
+
+Understanding Node.js performance: page 23
+Understanding prototype in js
+ 
+Stopped at page 48: Timer
+*****************************

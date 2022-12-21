@@ -56,6 +56,12 @@ Dec 15 2022
 browse articles on:
 	mongoose session explained
 	study node js: watch videos and read pdf
+	
+
+#Backe to my senses Dec 21/2022......
+-------plan the next project:
+	-- Read/study for the next project
+	-- prepare schema for the project
 
 
 
