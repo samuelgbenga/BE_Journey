@@ -64,8 +64,15 @@ browse articles on:
 	-- prepare schema for the project
 
 
-
-
+***************************************
+#Back from nonsense. Dec 23/2022
+	sleeping is not part of my schedule
+	do not see sleeping as an option.
+	you only sleep abruptly, momentarily inbetween work, study or coding. not trading though
+	
+Next project*****************
+work with mongodb offline**************'
+read books on mongodb
 
 
 
