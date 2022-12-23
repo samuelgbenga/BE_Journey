@@ -73,6 +73,8 @@ browse articles on:
 Next project*****************
 work with mongodb offline**************'
 read books on mongodb
+locally host backend with mongodb: link to part two of the video
+	https://www.youtube.com/watch?v=wry-Mb2auSo
 
 
 
