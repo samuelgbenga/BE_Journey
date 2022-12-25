@@ -18,3 +18,10 @@ Understanding prototype in js
  
 Stopped at page 48: Timer
 *****************************
+Dec 25/2022
+what is:
+	process.nextTick
+	Buffer
+
+stopped at page 67
+**********************
