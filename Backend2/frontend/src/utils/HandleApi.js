@@ -9,4 +9,11 @@ const getAllTodo = (setTodo) => {
   });
 };
 
-export { getAllTodo };
+const addTodo = (text, setText, setTodo) => {
+  axios.post(`${baseUrl}/save`, { text }).then((data) => {
+    console.log(data);
+    setText("");
+    getAllTodo(setTodo);
+  });
+};
+export { getAllTodo, addTodo };
