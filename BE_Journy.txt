@@ -76,5 +76,24 @@ read books on mongodb
 locally host backend with mongodb: link to part two of the video
 	https://www.youtube.com/watch?v=wry-Mb2auSo
 
+********************************************************
+completed the previous todo fullstack app
+starting a blog page fulstack app right away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

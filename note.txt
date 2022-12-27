@@ -25,3 +25,12 @@ what is:
 
 stopped at page 67
 **********************
+Again Dec 27/2022 (i didnt do anything on the 26 "and i dont know why"
+just finished :
+		node_module still trying to wrap my head around it
+		i understand node module as a folder system not a file system
+		and also it as a differenct way of scanning from file system 
+		file system uses some high level js programing shit to organis module
+		meanwhile node_module just uses folder structer to scan.
+		
+
