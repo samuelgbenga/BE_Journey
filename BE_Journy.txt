@@ -79,6 +79,14 @@ locally host backend with mongodb: link to part two of the video
 ********************************************************
 completed the previous todo fullstack app
 starting a blog page fulstack app right away.
+link from mongodb:
+	mongodb+srv://samuelgbenga:<password>@cluster0.cpdc2he.mongodb.net/?retryWrites=true&w=majority
+	
+******************************************************************
+Am back again i have rescheduled my software development time to 12 hrs a day so yeah.
+Dec 29/2022
+. THis is the link to the second part of the memory blog project am currently working on
+	https://www.youtube.com/watch?v=aibtHnbeuio
 
 
 

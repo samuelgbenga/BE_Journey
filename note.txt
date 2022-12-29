@@ -33,4 +33,46 @@ just finished :
 		file system uses some high level js programing shit to organis module
 		meanwhile node_module just uses folder structer to scan.
 		
+*************************************************
+Back to my senses again: Dec 28/2022
+Start at page 78
+	use rimraf to delete an js file localy or globaly on command line.
+	underscore module (underscore.js function)
+	like so:
+	var _ = require('underscore');
+	_.reject(arg1, arg2) or _.filter(arg1, arg2)
+	.
+	.
+	optimist function used in place of process to collect all console arguments
+	e.g process.argv replaced with
+		require("optimist").argv
+		
+	you can use moment module to extensively manipulate date and time in nodejs
+	in place of the inbuilt Date module
 
+	json serialization means stringifying js object to json which is done by this function
+	toJSON (if exist) or JSON.stringify(js object)
+	
+	__defineGetter__/__defineSetter__ to plug a function in way that it can be called like
+	a metho. Sample code is:
+	
+	String.prototype.__defineGetter__('red', function (str) {
+	// Changes the console foreground to red
+	var redCode = '\x1b[31m';
+	// Resets the console foreground
+	var clearCode = '\x1b[39m';
+	return redCode + this + clearCode;
+	});
+	console.log('Hello World!'.red);
+	
+	if red was a function it would have been called as red()
+	
+	
+Chapter 5 events and streams
+	
+	
+	
+the difference between import and require: one is flexible the order is not (can be called anywhere)
+					one allows dynamic import the other one does not (dont get)
+					
+					
