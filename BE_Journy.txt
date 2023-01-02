@@ -87,6 +87,19 @@ Am back again i have rescheduled my software development time to 12 hrs a day so
 Dec 29/2022
 . THis is the link to the second part of the memory blog project am currently working on
 	https://www.youtube.com/watch?v=aibtHnbeuio
+	
+	links to some referenced material
+	📚 Materials/References:
+GitHub Code (feel free to give it a star ⭐): https://github.com/adrianhajdin/proje...
+HTTP status codes: https://www.restapitutorial.com/https...
+MongoDB Atlas: https://www.mongodb.com/cloud/atlas
+MemDev: https://mem.dev/
+Styles Files: https://gist.github.com/adrianhajdin/...
+Image: http://bit.ly/memories_image
+************************************************************
+welcome back again after somedays i skipped yesterd for no good reason 
+This is January 3/2023: God help us
+
 
 
 

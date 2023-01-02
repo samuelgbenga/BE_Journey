@@ -76,3 +76,69 @@ the difference between import and require: one is flexible the order is not (can
 					one allows dynamic import the other one does not (dont get)
 					
 					
+
+**************************************************************************************
+starting from chapter five jan 1/2023
+
+Events and streams
+
+******************************************
+what page am i? start from page 96.
+The proper Node.js way:
+
+stopped at page 98
+overriding functions in child classes
+stopped at page 100: EventEmitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					
