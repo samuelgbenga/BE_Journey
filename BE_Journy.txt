@@ -86,7 +86,9 @@ link from mongodb:
 Am back again i have rescheduled my software development time to 12 hrs a day so yeah.
 Dec 29/2022
 . THis is the link to the second part of the memory blog project am currently working on
-	https://www.youtube.com/watch?v=aibtHnbeuio
+	https://www.youtube.com/watch?v=aibtHnbeuio part 2
+	Part 3 - https://youtu.be/LKlO8vLvUao
+
 	
 	links to some referenced material
 	📚 Materials/References:
@@ -96,10 +98,37 @@ MongoDB Atlas: https://www.mongodb.com/cloud/atlas
 MemDev: https://mem.dev/
 Styles Files: https://gist.github.com/adrianhajdin/...
 Image: http://bit.ly/memories_image
+svgBackground: https://www.svgbackgrounds.com/
 ************************************************************
 welcome back again after somedays i skipped yesterd for no good reason 
 This is January 3/2023: God help us
 use mem.dev to memorise hard/complicated shunk of code
+***********************************************
+this is january 5 but i did do something on the fourth just didnt update this writing
+- i crashed the project with audit fix that was suppose to fix the warning etcetera.
+********************************
+i have been thinking on how to go about my learning and the learning curve etcetera.
+so this is it.
+i will practice with three different videos on MERN stack complete basic app though.
+i will repeat each 3 times and the 4th time for pleasure or torment of the flesh.
+and then my next two step will be:
+				1 to complete every project on freecode camp
+					from 1 basic html css frontend
+					to javascript algorithm
+					to react project building scoring nothing less than 100%
+
+				2 step two:
+				the next step will be to apply for lighter frontend or backend like freecodecamp certificates if not available (that is after a thorough search) then you build.
+				10 major project starting with 
+				movie review app like IMDB (God help you: Good luck)
+				
+				
+
+ // "start": "react-scripts start",
+    // "build": "react-scripts build",
+    an error encountered the image refused to display on my path will solve that on the second
+    phase of building
+
 
 
 

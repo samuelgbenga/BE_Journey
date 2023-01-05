@@ -89,6 +89,9 @@ The proper Node.js way:
 stopped at page 98
 overriding functions in child classes
 stopped at page 100: EventEmitter
+****************************
+After a long day: began from Event Emitter (January 4 2022).
+The goal is to complet seven page. thorouly
 
 
 
