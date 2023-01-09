@@ -92,6 +92,32 @@ stopped at page 100: EventEmitter
 ****************************
 After a long day: began from Event Emitter (January 4 2022).
 The goal is to complet seven page. thorouly
+*************************************
+started again today excluding saturday i have missed whole two days: 5 and 6 of january.
+.
+.started from page 100:
+goal is to complete 10 pages only:
+first step:
+- fast read without practicals ( pay attention!! the Headings and Sub-Headings)
+  ( no need to take notes)
+- go through the codes with your eyes only to see if you can understand the logic
+  ( you can take notes)
+- then ask and answer questions and google 
+		What is the code for?
+		study the different components of the code (you can google)?.
+		google the latest version of the code (write the code in the new version
+		if need be)		
+- lastly read the whole thing again.
+  (no need to take note)
+  
+  *******************************************
+  
+  
+*********' what i discovered while working with eventemitter is that
+- while multiple subscription the different events shares a single object. ergo (therefor)
+	modification of that object by one event will affect the object to be passed or used by 
+ the next event since its thesame object that has been modified. But this is not the same for variable, if the parameter of the callback function is a variable it will be copied by the different subscription ( of events). Hence a modification by one
+	subscription will not affect the other copies of the variable on other subscription
 
 
 

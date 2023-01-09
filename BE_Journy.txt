@@ -128,6 +128,31 @@ and then my next two step will be:
     // "build": "react-scripts build",
     an error encountered the image refused to display on my path will solve that on the second
     phase of building
+******************************************
+back again with another strategy: you know my strategies are evolving and better to make 
+programming easier sweeter and better for me as i advance further or delve deeper.
+The NEW STRATEGY IS:
+		-focus on small time videos 1hr to 1hr-30 mins
+		- first:-do just raw coding along at first
+		- second:- go throught the code understanding everycomponent 
+			:sub_second steps:-
+					- Map out and memorize the general structure the
+					(the connection between each top level component)
+					- delve into each component:- and repeat thesame process
+					for each.
+		- code thesame thing all by yourself using only google as resource
+
+		
+-for my backend project: i have just three projects to practice on:
+	-then i complete project memory by myself (just go through is code base and study the
+							different components used)
+	- you can also watch the video without coding just ones (complete one's)
+	
+
+*******************************************************
+after that i go back to freecodecamp (complete js project, html&css, react project again and fair ) cert and other cert.
+
+--finally my own big project.
 
 
 
