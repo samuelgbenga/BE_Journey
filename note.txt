@@ -117,7 +117,15 @@ first step:
 - while multiple subscription the different events shares a single object. ergo (therefor)
 	modification of that object by one event will affect the object to be passed or used by 
  the next event since its thesame object that has been modified. But this is not the same for variable, if the parameter of the callback function is a variable it will be copied by the different subscription ( of events). Hence a modification by one
-	subscription will not affect the other copies of the variable on other subscription
+	subscription will not affect the other copies of the variable on other subscription.
+	
+*******************************************************************
+welcome back again this is jan11 2023
+three days of hard labour one day of hard rest: sum to 10 days target then finally proper rest.
+
+page 100: fast read page 10
+- then start from where you stop on the next step
+then proceed to the last step
 
 
 

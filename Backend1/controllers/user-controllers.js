@@ -19,7 +19,7 @@ export const signup = async (req, res, next) => {
 
   let existingUser;
   try {
-    existingUser = await User.findOne({ email });
+    existingUser = await User.findOne({ email: email });
   } catch (err) {
     return console.log(err);
   }
@@ -46,7 +46,7 @@ export const login = async (req, res, next) => {
   const { email, password } = req.body;
   let existingUser;
   try {
-    existingUser = await User.findOne({ email });
+    existingUser = await User.findOne({ email: email });
   } catch (err) {
     return console.log(err);
   }

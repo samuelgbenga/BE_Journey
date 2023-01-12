@@ -25,7 +25,7 @@ export const addBlog = async (req, res, next) => {
     return console.log(err);
   }
   if (!existingUser) {
-    return res.status(400).json({ message: "unable to find user by id" });
+    return res.status(404).json({ message: "unable to find user by id" });
   }
 
   const blog = new Blog({
@@ -91,6 +91,9 @@ export const deletBlog = async (req, res, next) => {
   let blog;
   try {
     blog = await Blog.findByIdAndRemove(id).populate("user");
+    if (blog === null) {
+      return res.status(500).json({ message: "capture null error" });
+    }
     if (!blog) {
       return res.status(404).json({ message: "No Such Blog Found" });
     }
@@ -117,5 +120,5 @@ export const getByUserId = async (req, res, next) => {
   if (!userBlogs) {
     return res.status(404).json({ message: "No Blog Found" });
   }
-  return res.status(200).json({ blogs: userBlogs });
+  return res.status(200).json({ user: userBlogs });
 };
