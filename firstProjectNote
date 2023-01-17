@@ -2,6 +2,10 @@ installs:
 npm init
 install nodemon
 install express
+install mongoose
+install bcryptjs
+
+create a relation btw the blog and users schema
 ********** materials to use*******
 https://mongoosejs.com/docs/index.html = mongoose
 https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/ = for mongoose
