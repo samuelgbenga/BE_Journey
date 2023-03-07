@@ -27,6 +27,7 @@ const updateTodo = (todoId, text, setText, setTodo, setIsUpdating) => {
   axios
     .post(`${baseUrl}/update`, { _id: todoId, text })
     .then((data) => {
+      console.log(data);
       setText("");
       setIsUpdating(false);
       getAllTodo(setTodo);

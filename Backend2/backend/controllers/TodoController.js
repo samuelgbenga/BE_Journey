@@ -6,6 +6,7 @@ module.exports.getTodo = async (req, res) => {
 };
 
 module.exports.saveTodo = async (req, res) => {
+  // does this function needs await
   const { text } = await req.body;
 
   TodoModel.create({ text }).then((data) => {
